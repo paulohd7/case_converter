@@ -1,0 +1,21 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+gradle/
+gradlew
+*.bat
+build
+
+
+# idea confid
+.idea
+
+# old stages
+/Case Converter/*
+!/Case Converter/task/
+/Case Converter/task/*
+!/Case Converter/task/src/
+!/Case Converter/task/build.gradle
+!/Case Converter/task/build.gradle.kts
